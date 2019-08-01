@@ -31,7 +31,7 @@ public class DisciplinesModifyingController extends HttpServlet {
         String modifiedDiscipline = req.getParameter("modifiedDiscipline");
         if(!modifiedDiscipline.equals("")){
             DBManager.modifyDiscipline(id, modifiedDiscipline);
-            resp.sendRedirect("/disciplines");
+             resp.sendRedirect("/disciplines");
         }
     }
 }
