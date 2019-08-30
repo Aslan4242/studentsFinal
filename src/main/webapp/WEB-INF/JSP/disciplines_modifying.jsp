@@ -6,10 +6,11 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="http-equiv" content="Content-type: text/html; charset=UTF-8">
     <title>Модификация дисциплины</title>
     <link rel="stylesheet" href="CSS/students_style.css">
+    <script type="text/javascript" charset="UTF-8" src="/JavaScript/function.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="/JavaScript/function.js"></script>
 </head>
 
 <body>
